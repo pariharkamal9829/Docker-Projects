@@ -6,7 +6,7 @@ A collection of beginner-friendly Docker projects to help you learn containeriza
 
 ## 1️⃣ Dockerized To-Do App  
 A simple to-do app built with Node.js and MongoDB, fully containerized using Docker.  
-[🔗 GitHub Repo](#)
+[🔗 GitHub Repo](https://github.com/pariharkamal9829/Docker-Projects/tree/main/Project1)
 
 ## 2️⃣ Nginx Reverse Proxy with Docker  
 Set up an Nginx reverse proxy to serve multiple applications inside containers.  
